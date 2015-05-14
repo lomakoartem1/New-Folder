@@ -1,8 +1,8 @@
 import java.util.Arrays;
         import java.util.Scanner;
-
+sdvfsdfgvsdgsdgsdvsdv
 /**
- * Created by lomak_000 on 01.05.2015.
+ * Creatsdasded by lomak_000 on 01.05.2015.
  */
 
 /**
