@@ -4,6 +4,11 @@ import java.util.Arrays;
 /**
  * Created by lomak_000 on 01.05.2015.
  */
+
+/**
+ * Update by lomak_000 on 14.05.2015.
+ */
+
 public class BinarySearch {
     public static void main(String[] args) {
         int n;
